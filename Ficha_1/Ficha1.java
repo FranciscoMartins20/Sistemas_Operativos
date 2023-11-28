@@ -1,4 +1,4 @@
-package Ficha_1.Exercicio_1_2_3;
+package Ficha_1;
 
 public class Ficha1 {
     public static void main(String[] args) {
