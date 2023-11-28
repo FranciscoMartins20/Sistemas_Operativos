@@ -1,5 +1,4 @@
 package Ficha_8;
-package Ficha_8;
 import java.util.concurrent.*;
 
 public class SemaphoreTest {
