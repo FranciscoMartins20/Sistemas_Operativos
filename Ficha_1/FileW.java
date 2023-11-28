@@ -1,4 +1,4 @@
-package Exercicio_1;
+package Ficha_1;
 import java.io.*;
 import java.util.*;
 import java.nio.file.*;

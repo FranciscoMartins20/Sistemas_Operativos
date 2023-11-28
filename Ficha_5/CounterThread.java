@@ -1,4 +1,4 @@
-package Exercicio_5;
+package Ficha_5;
 public class CounterThread extends Thread {
     protected Counter counter = null;
     public CounterThread (Counter counter) {

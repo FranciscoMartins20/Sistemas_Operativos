@@ -1,4 +1,4 @@
-package Exercicio_5;
+package Ficha_5;
 public class Exer {
     public static void main (String[] args) {
         Counter counter = new Counter();
